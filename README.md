@@ -21,7 +21,7 @@
 
 
   ##
-danizelrocha/danizelrocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tsoares-dev/tsoares-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -40,3 +40,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🙍🏼‍♂ &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/thiago-ssoares/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+
+</p>
+
