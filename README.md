@@ -8,8 +8,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
- <img width="430em" src="https://github-readme-stats.vercel.app/api?username=danizelrocha&show_icons=true&theme=vision-friendly-dark" alt="danizelrocha's stats"/>
- <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danizelrocha&layout=compact&theme=vision-friendly-dark" alt="danizelrocha's     most languages"/>
+ <img width="430em" src="https://github-readme-stats.vercel.app/api?username=tsoares-dev&show_icons=true&theme=vision-friendly-dark" alt="danizelrocha's stats"/>
+ <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsoares-dev&layout=compact&theme=vision-friendly-dark" alt="tsoares-dev's     most languages"/>
 </div>
 
 
