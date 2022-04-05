@@ -1,6 +1,6 @@
 😁--------------😉💫
 
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Everyone, I'm <em>Thiago Silva Soares.</em> </h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Everyone, I'm <em>Soares.</em> </h1>
 
 
 ## ⚙️ &nbsp;GitHub Analytics
