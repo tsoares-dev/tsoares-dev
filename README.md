@@ -43,22 +43,20 @@ Here are some ideas to get you started:
 
 🙍🏼‍♂ &nbsp;Social Links
 
-<p align="left" style="background:yellow">
+<align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/thiago-ssoares/" target="_blank">
   <img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/32/linkedin-icon.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
 
-<p align="left" style="background:yellow">
+<align="left" style="background:yellow">
 <a href="https://www.facebook.com/ts.thiagosoares1" target="_blank">
   <img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/32/facebook-icon.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
 
-<p align="left" style="background:yellow">
+<align="left" style="background:yellow">
 <a href="https://www.instagram.com/ts.thiagosoares013/" target="_blank">
   <img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/32/instagram-icon.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-
-</p>
 
