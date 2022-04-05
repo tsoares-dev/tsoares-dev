@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/thiago-ssoares/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img align="center" src="https://iconarchive.com/show/round-papercut-social-icons-by-uiconstock/linkedin-icon.html?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
 </p>
@@ -57,4 +57,10 @@ Here are some ideas to get you started:
 
 </p>
 
+<p align="left" style="background:yellow">
+<a href="https://www.facebook.com/ts.thiagosoares1" target="_blank">
+  <img align="center" src="https://cdn-0.imagensemoldes.com.br/wp-content/uploads/2020/04/Figura-Facebook-PNG.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+
+</p>
 
