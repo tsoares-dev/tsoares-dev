@@ -49,18 +49,18 @@ Here are some ideas to get you started:
    
   <a href = "mailto:thiago.tecsoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-  <a href="https://www.linkedin.com/in/thiago-ssoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiago-ssoares/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <br>
 <div>
-   <a href="https://www.facebook.com/ts.thiagosoares1/" target="_blank">
+   <a href="https://www.facebook.com/ts.thiagosoares1/" target="_blank" rel="external"">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/512/social-facebook-box-blue-icon.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
    </a>
 </div>
 <br>
 <div>
    <align="left" style="background:yellow">
-   <a href="https://www.instagram.com/ts.thiagosoares013/" target="_blank">
+   <a href="https://www.instagram.com/ts.thiagosoares013/" target="_blank" rel="external">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icons.iconarchive.com/icons/designbolts/free-instagram/256/Active-Instagram-3-icon.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
    </a>
 </div>
