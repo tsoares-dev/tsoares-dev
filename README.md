@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
 🙍🏼‍♂ &nbsp;Social Links
 <div>
+ <hr>
    <align="left" style="background:yellow">
    <a href="https://www.linkedin.com/in/thiago-ssoares/" target="_blank">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Linkedin-icon.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
