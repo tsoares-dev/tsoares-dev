@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/thiago-ssoares/" target="_blank">
-  <img align="center" src="https://iconarchive.com/download/i85700/uiconstock/round-papercut-social/linkedin.ico?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/256/linkedin-icon.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
 </p>
