@@ -27,6 +27,7 @@ Atualmente tenho me dedicado a me tornar um dev fullstack.
   - CSS
   - JavaScript
   - Angular
+  - Python
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
