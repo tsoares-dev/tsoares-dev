@@ -1,14 +1,57 @@
-😁--------------😉💫
 
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Everyone, I'm <em>Soares.</em> </h1>
+<h3 align="center">  <br>
+<h1 align="right">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o <em>Soares. 🇧🇷</em> </h1>
+<br>
+
+</h3>
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
+
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/ts.thiagosoares1/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/ts.thiagosoares013/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/thiago-ssoares/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/arthurspk)](https://www.spotify.com/)
+</h4>
 
 
-## ⚙️ &nbsp;GitHub Analytics
+```
+Estudando programação.
+Atualmente tenho me dedicado a me tornar um dev fullstack.
+```
+## Tecnologias que estou estudando atualmente 💻
+
+  - HTML
+  - CSS
+  - JavaScript
+  - Angular
+
+## Alguns fatos sobre mim 👨🏻‍💻
+
+- Gosto de conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😄
+
+- Estou cursando programção 💻
+
+
+## Meu Perfil [:link:](https://bit.ly/TSOARES)
+
+
+## Meus dados no Github
+
+<!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
+</span> -->
 
 <div align="center">
  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=tsoares-dev&show_icons=true&theme=vision-friendly-dark" alt="tsoares-dev's stats"/>
  <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsoares-dev&layout=compact&theme=vision-friendly-dark" alt="tsoares-dev's     most languages"/>
 </div>
+
+
+
+
 
 
 ## 🛠 &nbsp;Tech Stack  
@@ -41,28 +84,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🙍🏼‍♂ &nbsp;Social Links
+🙍🏼‍♂ &nbsp;Contato
 <div>
- <hr>
   
  <div> 
    
   <a href = "mailto:thiago.tecsoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-  <a href="https://www.linkedin.com/in/thiago-ssoares/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<br>
-<div>
-   <a href="https://www.facebook.com/ts.thiagosoares1/" target="_blank" rel="external"">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/512/social-facebook-box-blue-icon.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-   </a>
-</div>
-<br>
-<div>
-   <align="left" style="background:yellow">
-   <a href="https://www.instagram.com/ts.thiagosoares013/" target="_blank" rel="external">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icons.iconarchive.com/icons/designbolts/free-instagram/256/Active-Instagram-3-icon.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-   </a>
-</div>
  
 
