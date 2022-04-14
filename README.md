@@ -1,5 +1,5 @@
 
-<h3 align="center">  <br>
+<h3 align="center"> 
 <h1 align="right">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o <em>Soares. 🇧🇷</em> </h1>
 <br>
 
@@ -32,7 +32,7 @@ Atualmente tenho me dedicado a me tornar um dev fullstack.
 
 - Gosto de conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😄
 
-- Estou cursando programção 💻
+- Estou cursando programação 💻
 
 
 ## Meu Perfil [:link:](https://bit.ly/TSOARES)
@@ -44,14 +44,10 @@ Atualmente tenho me dedicado a me tornar um dev fullstack.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
 </span> -->
 
-<div align="center">
- <img width="430em" src="https://github-readme-stats.vercel.app/api?username=tsoares-dev&show_icons=true&theme=vision-friendly-dark" alt="tsoares-dev's stats"/>
- <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsoares-dev&layout=compact&theme=vision-friendly-dark" alt="tsoares-dev's     most languages"/>
-</div>
-
-
-
-
+![tsoares-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=tsoares-dev&show_icons=true&theme=tokyonight)
+[![tsoares-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=tsoares-dev&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/username=tsoares-dev/)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🛠 &nbsp;Tech Stack  
