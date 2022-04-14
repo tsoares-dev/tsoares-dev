@@ -41,15 +41,10 @@ Atualmente tenho me dedicado a me tornar um dev fullstack.
 
 ## Meus dados no Github
 
-<!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
-</span> -->
-
-![tsoares-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=tsoares-dev&show_icons=true&theme=tokyonight)
-[![tsoares-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=tsoares-dev&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/username=tsoares-dev/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+ <img width="430em" src="https://github-readme-stats.vercel.app/api?username=tsoares-dev&show_icons=true&theme=vision-friendly-dark" alt="tsoares-dev's stats"/>
+ <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsoares-dev&layout=compact&theme=vision-friendly-dark" alt="tsoares-dev's     most languages"/>
+</div>
 
 ## 🛠 &nbsp;Tech Stack  
  <div>
@@ -88,5 +83,5 @@ Here are some ideas to get you started:
    
   <a href = "mailto:thiago.tecsoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
- 
+<img src="https://github.com/tsoares-dev/tsoares/blob/main/img/github-contribution-grid-snake.svg">
 
