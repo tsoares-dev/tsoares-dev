@@ -1,6 +1,6 @@
 
 <h3 align="center"> 
-<h1 align="right">Olá <img src="https://github.com/tsoares-dev/perfil/blob/main/imagens/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="30px"> eu sou o <em>Soares. 🇧🇷</em> </h1>
+<h1 align="right">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o <em>Soares. 🇧🇷</em> </h1>
 <br>
 </h3>
 <h4 align="center">
