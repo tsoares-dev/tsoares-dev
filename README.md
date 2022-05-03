@@ -36,6 +36,8 @@ Atualmente tenho me dedicado a me tornar um dev fullstack.
 
 
 ## Meu Perfil [:link:](https://bit.ly/TSOARES)
+<br>
+## WhatsApp [:link:](https://bit.ly/tsoares-info)
 
 
 ## Meus dados no Github
