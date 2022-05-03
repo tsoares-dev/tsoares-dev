@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🙍🏼‍♂ &nbsp;Contato
+🙍🏼‍♂ &nbsp;E-Mail
 <div>
   
  <div> 
