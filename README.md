@@ -35,7 +35,7 @@ Atualmente tenho me dedicado a me tornar um dev fullstack.
 - Estou cursando programação 💻
 
 
-## Meu Perfil [:link:](https://bit.ly/TSOARES)
+## Contato [:link:](https://bit.ly/TSOARES)
 <br>
 ## WhatsApp [:link:"https://bit.ly/tsoares-info"]
 
