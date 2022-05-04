@@ -42,6 +42,8 @@ Atualmente tenho me dedicado a me tornar um dev fullstack.
 
 ## Meus dados no Github
 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiegobaena89&count_bg=%233D76C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <div align="center">
  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=tsoares-dev&show_icons=true&theme=vision-friendly-dark" alt="tsoares-dev's stats"/>
  <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsoares-dev&layout=compact&theme=vision-friendly-dark" alt="tsoares-dev's     most languages"/>
