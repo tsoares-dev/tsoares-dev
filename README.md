@@ -25,6 +25,7 @@ Atualmente tenho me dedicado a me tornar um dev fullstack.
   - HTML
   - CSS
   - JavaScript
+  - Service Now
   - Angular
   - Python
 
